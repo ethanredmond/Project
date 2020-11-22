@@ -1,0 +1,83 @@
+#tooltip
+{
+    position:absolute;
+    width:40px;
+    height:auto;
+    padding:10px;
+    background-color:white;
+    border-radius:10px;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.4);
+    pointer-events:none;
+}
+
+#tooltip.hidden
+{
+    display:none;
+}
+
+#graph
+{
+    left: 850px;
+    background-color: aqua;
+    float: left;
+
+}
+
+#barGraph
+{
+    left: 200px;
+    background-color: lightblue;
+    float: left;
+    
+}
+
+
+{
+    background-color: black;
+}
+
+#one
+{
+    position: absolute;
+    left: 800px;
+}
+
+#two
+{
+    position: absolute;
+    left: 200;
+}
+
+#header
+{
+    font-size: 80px;
+    text-align: center;
+};
+
+#para
+{
+    font-size: 100px;
+}
+
+#b1
+{
+    background-color: cornflowerblue
+}
+
+#b2
+{
+    background-color: cornflowerblue
+}
+
+#b3
+{
+    background-color: cornflowerblue;
+}
+#b4
+{
+    background-color: cornflowerblue
+}
+#head
+{
+    text-align: center;
+}
